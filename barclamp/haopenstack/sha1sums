@@ -1,0 +1,12 @@
+3b3eff2111e2ddd9f3d1ab91085a400e183670de *./crowbar.yml
+f7f8fa6c3d77451d155fa6a88d8437809523c133 *./.gitattributes
+8117c9052ad0407eb3222516f5fb7165a3ce9511 *./crowbar_framework/public/crowbar_deployment_guide.pdf
+c5139ccd8d3b0970a1190aefff08fd4bef1187c1 *./crowbar_framework/public/images/powered-by-openstack.png
+6b03db9151fb7cfda88fec5553a75f764c409ced *./crowbar_framework/public/images/OpenStackLogo.png
+a7443fd9d9b98471f60dee87abae725fe78a2c74 *./crowbar_framework/public/openstack_users_guide.pdf
+93bdd9a37ea94dea12610a3ca6a440b3f30bb118 *./crowbar_framework/app/models/openstack_service.rb
+47f181af696996cf55306c2b75674441252856b7 *./crowbar_framework/app/controllers/openstack_controller.rb
+4cb17836cf9ac4c499f927ff883681c1e0ceb569 *./crowbar_framework/app/views/barclamp/openstack/_edit_deployment.html.haml
+def695fbb68b969d2fea6b53e01845990ec3f90d *./crowbar_framework/app/views/barclamp/openstack/_edit_attributes.html.haml
+fc0d930134ad6eb16b1d1d357694992a22532fe1 *./crowbar_framework/app/views/barclamp/openstack/_index.html.haml
+d435c8aac28ae6e85cfd795d2006b3fd2f696748 *./README.txt
